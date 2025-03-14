@@ -30,7 +30,8 @@ Welcome to **Bachelors Kitchen**, a Python-based GUI application that simulates 
 python restaurent.py
 Use the GUI to explore both Admin and Customer functionality.
 📸 Screenshots
-![Screenshot 2025-03-14 115800](https://github.com/user-attachments/assets/85a462ae-bbea-4d5f-9f9a-a9986a364db6)
+![Screenshot 2025-03-14 115800](https://github.com/user-attachments/assets/766b4203-8a49-4a49-8631-4c78defded65)
+
 
 
 📦 Future Improvements
